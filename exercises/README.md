@@ -3,9 +3,9 @@
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
 | variables (DONE)       | §3.1                |
-| functions              | §3.3                |
-| if                     | §3.5                |
-| primitive_types        | §3.2, §4.3          |
+| functions (DONE)       | §3.3                |
+| if (DONE)              | §3.5                |
+| primitive_types (DONE) | §3.2, §4.3          |
 | vecs                   | §8.1                |
 | move_semantics         | §4.1, §4.2          |
 | structs                | §5.1, §5.3          |
