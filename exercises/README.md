@@ -9,7 +9,7 @@
 | vecs (DONE)            | §8.1                |
 | move_semantics (DONE)  | §4.1, §4.2          |
 | structs (DONE)         | §5.1, §5.3          |
-| enums                  | §6, §18.3           |
+| enums (DONE)           | §6, §18.3           |
 | strings                | §8.2                |
 | modules                | §7                  |
 | hashmaps               | §8.3                |
