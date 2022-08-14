@@ -6,9 +6,9 @@
 | functions (DONE)       | §3.3                |
 | if (DONE)              | §3.5                |
 | primitive_types (DONE) | §3.2, §4.3          |
-| vecs                   | §8.1                |
-| move_semantics         | §4.1, §4.2          |
-| structs                | §5.1, §5.3          |
+| vecs (DONE)            | §8.1                |
+| move_semantics (DONE)  | §4.1, §4.2          |
+| structs (DONE)         | §5.1, §5.3          |
 | enums                  | §6, §18.3           |
 | strings                | §8.2                |
 | modules                | §7                  |
